@@ -126,8 +126,6 @@ public class CalculatorTest {
         finally {
             throw new IllegalArgumentException();
         }
-
-
     }
 
     @Test
